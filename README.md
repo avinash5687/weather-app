@@ -1,3 +1,5 @@
+Live Site Link :- https://weather-app-by-avinash.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
